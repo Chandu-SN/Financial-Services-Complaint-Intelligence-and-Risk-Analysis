@@ -6,7 +6,7 @@ Financial institutions receive complaints across multiple products, issues, and 
 The objective of this project was to turn consumer complaint data into actionable insights that can help Customer Operations, Product, and Risk & Compliance teams prioritize improvement efforts.
 
 Analytical Approach
-  1. Quantified complaint concentration across financial products, issues, companies, and time periods to identify the major sources of consumer complaints.  2. Identified the highest-volume product and issue combinations and examined how complaint patterns changed over time.
+  1. Quantified complaint concentration across financial products, issues, companies, and time periods to identify the major sources of consumer complaints.  
   2. Diagnosed response-performance gaps by comparing companies, complaint issues, and submission channels based on timely-response performance.
   3. Prioritized product–issue risk areas using complaint volume and untimely-response rates, while benchmarking company response risk against product mix.
 
